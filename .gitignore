@@ -1,0 +1,20 @@
+# Archivos generados por .NET
+bin/
+obj/
+.vs/
+
+# Configuración local
+*.user
+*.suo
+.env
+.env.*
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Datos sensibles locales
+secrets.json
